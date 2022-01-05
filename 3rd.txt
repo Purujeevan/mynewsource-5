@@ -6,3 +6,5 @@ Untracked files:
 	sec.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+bad file
+bad puru
